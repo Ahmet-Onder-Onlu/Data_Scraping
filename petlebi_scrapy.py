@@ -14,7 +14,7 @@ all_p_prices = []
 all_p_links = []
 all_p_images = []
 all_p_descs = []
-# I couldn't find these three values in the website.
+# I couldn't find these three values in the website.c
 all_p_barcodes = [] # Unfortunately Not Found
 all_p_stocks = [] # Unfortunately Not Found
 all_p_skus = [] # Unfortunately Not Found
